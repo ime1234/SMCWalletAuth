@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMC Wallet Auth</string>
+    <string name="generic_error">Something wrong happened. Please try again.</string>
+
+</resources>
